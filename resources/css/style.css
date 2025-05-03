@@ -19,3 +19,19 @@ a
 	display: block;
 	text-align: center;
 }
+
+video
+{
+	background-color: black;
+	display: block;
+	margin: 0 auto;
+}
+
+h2
+{
+	font-family: Verdana;
+	color:white;
+	font-weight: 300;
+	font-size: 42px;
+	text-align: center
+}
